@@ -21,5 +21,8 @@ Stress Management Alerts: Sends notifications when stress indicators are detecte
 Team Mood Analytics: Provides collective mood analysis to help managers understand team dynamics.
 
 Data Privacy: Ensures secure handling and storage of emotional data, maintaining employee confidentiality.
+
+
 🤝 Contributing
+
 Contributions are welcome! Feel free to raise issues or submit pull requests.
