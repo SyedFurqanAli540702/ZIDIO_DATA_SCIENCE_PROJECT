@@ -1,7 +1,7 @@
 # ZIDIO_DATA_SCIENCE_PROJECT
 Real time emotion detection 
 Employee Emotion and Mood Analysis System
-Author :- (https://github.com/SyedFurqanAli540702)
+Author :- SyedFurqanAli(https://github.com/SyedFurqanAli540702)
 DESCRIPTION
 This project focuses on leveraging data science and machine learning techniques to analyze employee emotions and moods using data such as text inputs, facial expressions, or speech. It provides insights into the emotional state of employees and recommends tasks that align with their mood to enhance productivity.
 
