@@ -10,9 +10,7 @@ This project focuses on leveraging data science and machine learning techniques 
 
 KEY FEATURES:
 
-Real-Time Emotion Detection: Instantly identifies employee emotions from text, facial expressions, or voice inputs.
 
-Task Recommendation: Suggests tasks that match the detected mood to optimize performance and satisfaction.
 
 Historical Mood Tracking: Maintains a log of mood patterns over time to identify trends and behavioral changes.
 
